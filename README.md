@@ -1,3 +1,3 @@
-# gatea7a.github.io
+# 2018-2 미래뉴스실습 II
 
-## hello world!
+## 처음으로 만들어보아따
